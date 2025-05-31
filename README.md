@@ -37,7 +37,7 @@ Support mode : SP ( Singleplayer *Campaign ) / CP ( Co-op ) / MP ( Multiplayer )
 
 If you’d like to learn more about this GSC Mod Menu, please check out the YouTube video below.
 
-coming soon...
+https://youtu.be/7vshureyOk0
 
 
 ----------
@@ -48,13 +48,9 @@ coming soon...
 
 The following items are currently completed:
 
-- dll Injector
-- GSC Injector
-- GSC Dumper
 - GSCBIN Dump Data
-- GSC Mod Menu - Project HiNAtyu ( Compiled )
-- GSC Mod Menu - Project HiNAtyu ( Sourcecode )
-- GSC Loader
+- GSC Sourcecode Dump Data 
+- GSC Loader ( GSC Injector / GSC Dumper / GSC Mod Menu )
 
 ----------
 
@@ -64,21 +60,41 @@ The following items are currently completed:
 
 < Generic >
 
-* This Injector was created for research, development, and educational purposes.
-* This Injector was created for free release purposes.
-* Unless there are significant bugs, I will not make fixes to the Injector.
-* I recommend using it only with the MW19 1.38 Offline build.
-* It is not intended for use with any other games.
-* Any use for unintended purposes is always at your own risk.
-* If OneDrive is enabled, the software may not function properly, so please disable OneDrive if any issues occur.
-* The driver for this Face Injector will be detected by the Retail Version of Call of Duty Ricochet.
-* If you use it with the Retail Version, the consequences are at your own risk.
+* This software was created for research, development, and educational purposes.
+* This software was created as part of technical verification and educational learning of C++ programming.
+* This software was created as software for creating and testing original mods for programming learning purposes such as coding scripts in C++.
+* This software was not created for the purpose of increasing the number of cheaters (users who use cheats), hackers, or trolls.
+* This software was created on the premise that it will only work in private spaces (private matches, offline builds, offline modes), not in environments with an unspecified number of users such as public matches.
+* The operation of this software has been verified only by me, the developer, in the above private space, and is mainly for personal purposes, fun, and play.
+* The functions performed by this software do not affect the current server (network with general users).
+* It is not recommended to use this software in public places other than the above private spaces, so please be sure to run it in a private space.
+* If you use this software in an environment or for purposes other than those recommended, I, the developer, will not be held responsible for any problems or risks that may occur, or serious measures such as account bans. Please use at your own risk.
+* If you are banned from Call of Duty (account ban) that may occur when using this software, I, the developer, will not be held responsible for any such measures. All responsibility is the user's responsibility.
 
-* After using this Injector, be sure to restart your PC before playing other games.
-* Shutting down or unplugging the power will not initialize the driver, which increases the risk of a BAN.
-* Any BAN measures resulting from the use of this Injector are entirely at your own risk.
 
-* To use this Face Injector on Windows 11, please use <MRON AIO FIXES.bat> distributed by MRON to fix your system.
+* This software is designed to work with the game "Call of Duty Modern Warfare (CoD:MW 2019 / MW19 / MW2019)".
+* This software is designed to work with "PC Version 1.38.3.9489393 Build" of the above game.
+* The custom GSC Injector function of this software is designed to work with the "SP / CP / MP" of the above games.
+* When using this software, it is recommended to use the offline build (offline mode) of the above game or in private matches.
+* If an offline build (offline mode) of the above game exists, we will not explain how to obtain or apply the offline state, please look into it yourself.
+* This software is not intended to be used with game titles, environments, or platforms other than the above games.
+* If you use this software in an environment other than the recommended environment or for purposes other than the recommended purpose, I, the developer, will not be held responsible in any case, and you do so at your own risk.
+
+
+* This software is provided in Loader format, and you will need an account to log in to use it.\
+* If you need an account to use this software, please contact me, the developer, via Discord or Twitter DM.
+* This software may be detected as a virus and deleted, so be sure to disable Windows Security's "real-time protection" before using it.
+* To prevent this software from being detected as a virus and deleted, we recommend that you specify this app's folder in the virus check exclusion folder from Windows Security.
+* This software works with Windows 10 and 11. It does not work with other OS.
+* To make this software work with Windows 11, please repair the system using the included .bat file.
+* This software may not work properly if OneDrive is enabled, so disable OneDrive if a problem occurs.
+* This software may reset GSC due to shader compilation that occurs when the game is started for the first time, even if a notification that GSC Inject was successful is displayed.
+* If the custom GSC is not applied after the above shader compilation is displayed, restart the game after the shader compilation is complete and try injecting again.
+
+
+* If this software is used online with the retail version of the above games, it will be detected by Ricoshet and you will be banned, so please use it at your own risk.
+* After using this software, be sure to restart your PC before playing other games.
+* If you shut down your PC or unplug and plug the power cord, the system will not be initialized, increasing the risk of being banned, so be sure to restart your PC.
 
 
 ----------
