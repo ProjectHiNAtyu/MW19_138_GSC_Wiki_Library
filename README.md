@@ -103,8 +103,8 @@ The following items are currently completed:
 < GSC Loader >
 
 
-For detailed operation instructions, please read the readme.txt included with GSC Loader.
-
+For detailed operation instructions, You can read it by pressing various buttons after launching the Loader application.
+Or read the included readme.txt
 
 ----------
 
@@ -118,6 +118,8 @@ HiNAtyu does not accept questions regarding the tool.
 Please direct your questions to xensik.
 
 Please download and use the latest version of the release file for gsc-tool from xensik's official repository.
+
+If there is demand in the future, I may rework the gsc-tool for the 1.38 build, but for now I guarantee it will work with the official version of gsc-tool.
 
 https://github.com/xensik/gsc-tool
 
@@ -147,9 +149,9 @@ gsc-tool -m decomp -g iw8 -s pc GSCBIN
 
 < compile >
 
-* A "GSCModSource" folder containing the custom GSC source for iw9 needs to be placed in the same directory hierarchy as gsc-tool.exe.
+* A folder containing the custom GSC source for iw8 needs to be placed in the same directory hierarchy as gsc-tool.exe.
 
-gsc-tool -m comp -g iw8 -s pc GSCModSource
+gsc-tool -m comp -g iw8 -s pc YourCustomGSCFolder
 
 
 You are free to modify the GSC Mod Menu source code I released.
