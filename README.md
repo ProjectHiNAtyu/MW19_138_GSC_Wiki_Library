@@ -83,7 +83,6 @@ The following items are currently completed:
 
 * This software is provided in Loader format, and you will need an account to log in to use it.\
 * If you need an account to use this software, please contact me, the developer, via Discord or Twitter DM.
-* For information about the usage fee of this software, please contact me, the developer, via Discord or Twitter DM.
 * This software may be detected as a virus and deleted, so be sure to disable Windows Security's "real-time protection" before using it.
 * To prevent this software from being detected as a virus and deleted, we recommend that you specify this app's folder in the virus check exclusion folder from Windows Security.
 * This software works with Windows 10 and 11. It does not work with other OS.
